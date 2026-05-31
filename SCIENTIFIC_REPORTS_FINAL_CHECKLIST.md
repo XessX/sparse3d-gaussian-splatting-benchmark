@@ -53,12 +53,12 @@ Project: **Benchmarking Gaussian Splatting Under Sparse and Degraded Views**
 | Result CSVs included | yes |
 | Figures and tables included | yes |
 | External setup/environment files included | yes |
-| Public data repository link | https://doi.org/10.5281/zenodo.20477399 |
+| Public data repository link | https://doi.org/10.5281/zenodo.20478630 |
 | Public code repository link | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark |
 | GitHub repository URL | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark |
-| GitHub release URL | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.5 |
-| Zenodo record URL | https://zenodo.org/records/20477399 |
-| Zenodo DOI/link | https://doi.org/10.5281/zenodo.20477399 |
+| GitHub release URL | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.6 |
+| Zenodo record URL | https://zenodo.org/records/20478630 |
+| Zenodo DOI/link | https://doi.org/10.5281/zenodo.20478630 |
 
 ## Remaining Manual Items
 

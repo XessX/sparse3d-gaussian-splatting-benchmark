@@ -7,9 +7,9 @@ Overall status: **PASS**
 ## Public Archive Links
 
 - GitHub repository: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark
-- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.5
-- Zenodo record: https://zenodo.org/records/20477399
-- Zenodo DOI: https://doi.org/10.5281/zenodo.20477399
+- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.6
+- Zenodo record: https://zenodo.org/records/20478630
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20478630
 
 ## Scope
 

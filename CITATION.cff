@@ -6,9 +6,10 @@ authors:
     given-names: "Al Jubair"
     affiliation: "American International University-Bangladesh (AIUB)"
     orcid: "https://orcid.org/0009-0005-3498-5826"
-version: "0.1.5"
+version: "0.1.6"
 date-released: "2026-05-31"
 repository-code: "https://github.com/XessX/sparse3d-gaussian-splatting-benchmark"
+doi: "10.5281/zenodo.20478630"
 url: "https://github.com/XessX/sparse3d-gaussian-splatting-benchmark"
 abstract: "This repository contains cleaned scripts, result summaries, manuscript tables, selected figures, and reproducibility metadata for a benchmark evaluating Gaussian Splatting under sparse and degraded views."
 keywords:
