@@ -49,7 +49,12 @@ Important generated outputs include:
 
 ## Citation
 
-See `CITATION.cff`. The GitHub repository URL and Zenodo DOI are placeholders until the public repository and archive are created.
+See `CITATION.cff`.
+
+- GitHub repository: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark
+- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.2
+- Zenodo record: https://zenodo.org/records/20476805
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20476805
 
 ## License
 

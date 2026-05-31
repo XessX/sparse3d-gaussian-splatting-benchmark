@@ -8,7 +8,7 @@ Project: **Benchmarking Gaussian Splatting Under Sparse and Degraded Views**
 | --- | ---: | --- |
 | Title word count | 8 | pass |
 | Abstract word count | 157 | pass |
-| Main text word count, excluding abstract and references | 3469 | pass |
+| Main text word count, excluding abstract and references | 3426 | pass |
 | Main figures | 6 | pass |
 | Main tables | 2 | pass |
 | Main display items total | 8 | pass |
@@ -18,6 +18,9 @@ Project: **Benchmarking Gaussian Splatting Under Sparse and Degraded Views**
 | AI-use disclosure | present | pass |
 | Cautious foundation-model claims | present | pass |
 | Raw public dataset images excluded from package | yes | pass |
+| DOCX/PDF structural Markdown-artifact check | pass | pass |
+| Upload-ready Word table files | Table 1 and Table 2 present | pass |
+| Optional review manuscript with figures | present | pass |
 | Author name | Al Jubair Hossain | pass |
 | Affiliation | American International University-Bangladesh (AIUB), Dhaka, Bangladesh | pass |
 | Corresponding email | jubair.hossain@aiub.edu | pass |
@@ -50,18 +53,15 @@ Project: **Benchmarking Gaussian Splatting Under Sparse and Degraded Views**
 | Result CSVs included | yes |
 | Figures and tables included | yes |
 | External setup/environment files included | yes |
-| Public data repository link | `[MANUAL: add Zenodo/OSF/GitHub release DOI before submission]` unresolved |
-| Public code repository link | `[MANUAL: add GitHub repository URL and archived Zenodo DOI before submission]` unresolved |
-| GitHub repository URL | not created in this session |
-| GitHub release URL | not created in this session |
-| Zenodo DOI/link | not created in this session |
+| Public data repository link | https://doi.org/10.5281/zenodo.20476805 |
+| Public code repository link | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark |
+| GitHub repository URL | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark |
+| GitHub release URL | https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.2 |
+| Zenodo record URL | https://zenodo.org/records/20476805 |
+| Zenodo DOI/link | https://doi.org/10.5281/zenodo.20476805 |
 
 ## Remaining Manual Items
 
-- Data repository: `[MANUAL: add Zenodo/OSF/GitHub release DOI before submission]`
-- Code repository: `[MANUAL: add GitHub repository URL and archived Zenodo DOI before submission]`
-- GitHub repository and release creation; see `manuscript/submission/github_zenodo_manual_steps.md`.
-- Zenodo DOI archive; see `manuscript/submission/github_zenodo_manual_steps.md`.
 - Suggested reviewers: `[MANUAL: suggested reviewer name, institution, email]`
 - Dataset license verification for any public raw-data redistribution.
 - Prior editorial-discussion confirmation.
@@ -72,15 +72,14 @@ Project: **Benchmarking Gaussian Splatting Under Sparse and Degraded Views**
 
 Ready for human review: **yes**.
 
-Ready for direct Scientific Reports upload: **no**. The package still needs public repository/DOI, reviewer, license-verification, and upload-format details completed.
+Ready for direct Scientific Reports upload: **no**. The package still needs suggested-reviewer handling, dataset-license verification, DOCX visual QA, and final upload-format checks.
 
 ## Manual Tasks Before Upload
 
 1. Confirm author contribution wording.
-2. Add final public data/code repository links and archival DOI records.
-3. Verify Tanks and Temples, Deep Blending, and 3DGS dataset package redistribution terms.
-4. Add suggested reviewer details if requested by the journal portal.
-5. Confirm whether there was prior discussion with a Scientific Reports editorial board member.
-6. Inspect the generated DOCX manually after opening in Word or LibreOffice.
-7. Check final figure resolution, captions, panel labels, and citation order after upload conversion.
+2. Verify Tanks and Temples, Deep Blending, and 3DGS dataset package redistribution terms.
+3. Add suggested reviewer details if requested by the journal portal.
+4. Confirm whether there was prior discussion with a Scientific Reports editorial board member.
+5. Inspect the generated DOCX manually after opening in Word or LibreOffice.
+6. Check final figure resolution, captions, panel labels, and citation order after upload conversion.
 

@@ -1,9 +1,3 @@
-﻿# Code Availability Statement
+# Code Availability Statement
 
-The project repository contains Python scripts for dataset preparation, sparse-view split generation, quality-aware and diversity-aware view selection, degradation generation, COLMAP + 3DGS training and rendering, foundation-model pose benchmarking, InstantSplat evaluation, statistical testing, figure generation, table export, auditing, and submission packaging.
-
-Before public release, external method installation instructions should be checked against the target release environment. Large raw datasets, external method repositories, and trained model checkpoints are not included in the lightweight submission package.
-
-Code repository status: not created in the current environment. After the cleaned public-release package is pushed to GitHub and archived with Zenodo, replace this line with the final GitHub repository URL, GitHub release URL, and Zenodo DOI/link.
-
-
+The custom scripts used for sparse-view split generation, image-quality scoring, degradation synthesis, 3DGS evaluation summarization, statistical testing, and manuscript table generation are available at https://github.com/XessX/sparse3d-gaussian-splatting-benchmark and archived at https://doi.org/10.5281/zenodo.20476805. Third-party methods, including COLMAP, GraphDeco 3D Gaussian Splatting, VGGT, DUSt3R, MASt3R, and InstantSplat, should be obtained from their official repositories and used under their respective licenses.

@@ -4,6 +4,13 @@ Generated: 2026-05-31
 
 Overall status: **PASS**
 
+## Public Archive Links
+
+- GitHub repository: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark
+- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.2
+- Zenodo record: https://zenodo.org/records/20476805
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20476805
+
 ## Scope
 
 The audit scanned the cleaned public-release folder after excluding raw datasets, processed datasets, external method repositories, local virtual environments, bytecode caches, checkpoints, archives, and temporary local build files.

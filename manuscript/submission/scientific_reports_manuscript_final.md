@@ -161,11 +161,11 @@ Sixth, the current work emphasizes image-space metrics and pose proxies. Geometr
 
 ## Data Availability
 
-The benchmark uses public datasets from Tanks and Temples and Deep Blending as distributed through the 3D Gaussian Splatting dataset package [3,4]. Raw public dataset images are not redistributed in the lightweight submission package. Users should download Tanks and Temples and Deep Blending data from official sources and follow the original dataset terms and citation requirements. Generated split files, held-out test-view lists, result CSV summaries, manuscript tables, figures, audit reports, and reproducibility metadata may be released with the code package after final dataset-license verification. A public data/code archive link and Zenodo DOI have not yet been created and should be inserted before journal upload.
+The processed result tables, sparse-view split metadata, evaluation summaries, and manuscript figures generated for this study are available at https://doi.org/10.5281/zenodo.20476805. Raw Tanks and Temples and Deep Blending images are not redistributed with this release and should be obtained from the official dataset providers subject to their terms of use.
 
 ## Code Availability
 
-The repository contains scripts for split generation, pose-free and pose-aware view selection, COLMAP + 3DGS training, rendering, evaluation, degradation experiments, foundation-model pose benchmarks, InstantSplat evaluation, statistical testing, figure generation, table export, auditing, and submission packaging. A cleaned public-release folder has been prepared locally, but the public GitHub repository, release URL, and Zenodo DOI have not yet been created.
+The custom scripts used for sparse-view split generation, image-quality scoring, degradation synthesis, 3DGS evaluation summarization, statistical testing, and manuscript table generation are available at https://github.com/XessX/sparse3d-gaussian-splatting-benchmark and archived at https://doi.org/10.5281/zenodo.20476805. Third-party methods, including COLMAP, GraphDeco 3D Gaussian Splatting, VGGT, DUSt3R, MASt3R, and InstantSplat, should be obtained from their official repositories and used under their respective licenses.
 
 ## Acknowledgements
 
