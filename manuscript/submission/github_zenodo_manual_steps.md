@@ -1,12 +1,12 @@
-# GitHub and Zenodo Release Notes
+﻿# GitHub and Zenodo Release Notes
 
 The public repository and archive have been created.
 
 - GitHub repository: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark
-- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.2
-- Zenodo record: https://zenodo.org/records/20476805
-- Zenodo DOI: 10.5281/zenodo.20476805
-- Zenodo DOI link: https://doi.org/10.5281/zenodo.20476805
+- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.5
+- Zenodo record: https://zenodo.org/records/20477399
+- Zenodo DOI: 10.5281/zenodo.20477399
+- Zenodo DOI link: https://doi.org/10.5281/zenodo.20477399
 
 ## Notes for Future Updates
 

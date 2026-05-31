@@ -1,4 +1,4 @@
-# Public Release Safety Audit
+﻿# Public Release Safety Audit
 
 Generated: 2026-05-31
 
@@ -7,9 +7,9 @@ Overall status: **PASS**
 ## Public Archive Links
 
 - GitHub repository: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark
-- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.2
-- Zenodo record: https://zenodo.org/records/20476805
-- Zenodo DOI: https://doi.org/10.5281/zenodo.20476805
+- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.5
+- Zenodo record: https://zenodo.org/records/20477399
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20477399
 
 ## Scope
 

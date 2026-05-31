@@ -1,11 +1,12 @@
 ﻿cff-version: "1.2.0"
-message: "If you use this software or result archive, please cite it using the metadata below."
+message: "If you use this benchmark code or result summaries, please cite the associated manuscript and archived release."
 title: "Benchmarking Gaussian Splatting Under Sparse and Degraded Views"
 authors:
   - family-names: "Hossain"
     given-names: "Al Jubair"
+    affiliation: "American International University-Bangladesh (AIUB)"
     orcid: "https://orcid.org/0009-0005-3498-5826"
-version: "0.1.4"
+version: "0.1.5"
 date-released: "2026-05-31"
 repository-code: "https://github.com/XessX/sparse3d-gaussian-splatting-benchmark"
 url: "https://github.com/XessX/sparse3d-gaussian-splatting-benchmark"
@@ -16,3 +17,4 @@ keywords:
   - "novel-view synthesis"
   - "image degradation"
   - "view selection"
+

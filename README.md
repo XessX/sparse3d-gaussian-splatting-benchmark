@@ -1,4 +1,4 @@
-# Benchmarking Gaussian Splatting Under Sparse and Degraded Views
+﻿# Benchmarking Gaussian Splatting Under Sparse and Degraded Views
 
 This public-release folder contains cleaned scripts, result summaries, manuscript tables, selected figures, and reproducibility metadata for a Scientific Reports-style benchmark of sparse-view 3D Gaussian Splatting under degraded image conditions.
 
@@ -52,9 +52,9 @@ Important generated outputs include:
 See `CITATION.cff`.
 
 - GitHub repository: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark
-- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.2
-- Zenodo record: https://zenodo.org/records/20476805
-- Zenodo DOI: https://doi.org/10.5281/zenodo.20476805
+- GitHub release: https://github.com/XessX/sparse3d-gaussian-splatting-benchmark/releases/tag/v0.1.5
+- Zenodo record: https://zenodo.org/records/20477399
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20477399
 
 ## License
 
