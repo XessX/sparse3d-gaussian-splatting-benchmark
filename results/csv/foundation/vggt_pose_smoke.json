@@ -1,0 +1,32 @@
+{
+  "model_name": "facebook/VGGT-1B",
+  "model_load_sec": 10.844633799999428,
+  "rows": [
+    {
+      "scene": "tandt/train",
+      "method": "VGGT",
+      "split": "5views_uniform",
+      "views": 5,
+      "selection": "uniform",
+      "status": "success",
+      "num_images": 5,
+      "device": "cuda",
+      "dtype": "torch.bfloat16",
+      "load_images_sec": 0.10271909999937634,
+      "infer_sec": 1.1687367000013182,
+      "peak_gpu_memory_mb": 7518.56103515625,
+      "camera_center_rmse": 0.0802815471911594,
+      "camera_center_mae": 0.07015602942261671,
+      "camera_center_max_error": 0.12507084852549663,
+      "reference_trajectory_extent": 9.789046034247507,
+      "normalized_camera_center_rmse": 0.0082011614727615,
+      "alignment_scale": 5.297596192821346,
+      "depth_mean": 0.6834712028503418,
+      "depth_median": 0.4351354241371155,
+      "depth_conf_mean": 1.70194673538208,
+      "world_points_conf_mean": 1.818850040435791,
+      "output_dir": "results\\method_outputs\\tandt\\train\\vggt_pose\\5views_uniform",
+      "model_load_sec": 10.844633799999428
+    }
+  ]
+}

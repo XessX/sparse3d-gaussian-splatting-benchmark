@@ -1,0 +1,21 @@
+{
+  "split_type": "quality_image_diverse",
+  "scenes": [
+    "tandt/train",
+    "tandt/truck",
+    "db/drjohnson",
+    "db/playroom"
+  ],
+  "views": [
+    2,
+    3,
+    5,
+    8,
+    12,
+    20
+  ],
+  "quality_weight": 0.45,
+  "diversity_weight": 0.55,
+  "candidate_pool": 80,
+  "notes": "The selector is image-only and excludes existing held-out eval views when present."
+}

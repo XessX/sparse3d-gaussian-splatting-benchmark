@@ -1,0 +1,32 @@
+﻿{
+  "weights": "external_methods\\mast3r\\checkpoints\\MASt3R_ViTLarge_BaseDecoder_512_catmlpdpt_metric.pth",
+  "rows": [
+    {
+      "scene": "tandt/train",
+      "method": "MASt3R",
+      "split": "5views_uniform",
+      "views": 5,
+      "selection": "uniform",
+      "status": "success",
+      "num_images": 5,
+      "image_size": 512,
+      "niter1": 20,
+      "niter2": 10,
+      "device": "cuda",
+      "model_load_sec": 6.637981100000616,
+      "image_load_sec": 0.07868429999871296,
+      "pair_count": 20,
+      "alignment_sec": 8.917179100000794,
+      "peak_gpu_memory_mb": 3077.31640625,
+      "camera_center_rmse": 2.8045818140163394,
+      "camera_center_mae": 2.5087720721728695,
+      "camera_center_max_error": 4.670958391314625,
+      "reference_trajectory_extent": 9.789046034247507,
+      "normalized_camera_center_rmse": 0.2865020558902633,
+      "alignment_scale": 2.4977775791959216,
+      "focal_mean": 301.8293151855469,
+      "output_dir": "results\\method_outputs\\tandt\\train\\mast3r_pose\\5views_uniform",
+      "error": null
+    }
+  ]
+}

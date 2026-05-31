@@ -1,0 +1,48 @@
+methods:
+  colmap_3dgs:
+    enabled: true
+    display_name: "COLMAP + 3D Gaussian Splatting"
+    role: "Classical SfM pose estimation followed by Gaussian Splatting."
+    colmap_binary: external_methods/colmap-4.0.4-cuda/bin/colmap.exe
+    repo_url: https://github.com/graphdeco-inria/gaussian-splatting
+    local_path: external_methods/gaussian-splatting
+    wrapper_status: partial_colmap_sfm_ready
+    notes: "Requires COLMAP, CUDA-capable PyTorch, and the GraphDeco 3DGS dependencies."
+
+  vggt:
+    enabled: true
+    display_name: "VGGT"
+    role: "Feed-forward 3D foundation model for camera, depth, point-map, and track prediction."
+    repo_url: https://github.com/facebookresearch/vggt
+    model_url: https://huggingface.co/facebook/VGGT-1B
+    local_path: external_methods/vggt
+    wrapper_status: source_cloned
+    notes: "Can export COLMAP-format predictions for Gaussian Splatting integration."
+
+  dust3r:
+    enabled: true
+    display_name: "DUSt3R"
+    role: "Pose-free or calibration-light geometric 3D reconstruction baseline."
+    repo_url: https://github.com/naver/dust3r
+    local_path: external_methods/dust3r
+    wrapper_status: source_cloned
+    notes: "Official code is CC BY-NC-SA 4.0; verify compatibility before public release."
+
+  mast3r:
+    enabled: true
+    display_name: "MASt3R"
+    role: "DUSt3R-derived matching and stereo 3D reconstruction baseline."
+    repo_url: https://github.com/naver/mast3r
+    local_path: external_methods/mast3r
+    wrapper_status: source_cloned
+    notes: "Useful for scalable image matching, reconstruction, and pose estimation comparisons."
+
+  instantsplat:
+    enabled: true
+    display_name: "InstantSplat"
+    role: "Sparse-view SfM-free Gaussian Splatting baseline."
+    repo_url: https://github.com/NVlabs/InstantSplat
+    project_url: https://instantsplat.github.io/
+    local_path: external_methods/InstantSplat
+    wrapper_status: source_cloned
+    notes: "Designed for sparse-view Gaussian Splatting from very few images."

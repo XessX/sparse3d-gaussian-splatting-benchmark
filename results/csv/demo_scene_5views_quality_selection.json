@@ -1,0 +1,11 @@
+{
+  "scene": "demo_scene",
+  "views": 5,
+  "selected": [
+    "view_006.png",
+    "view_008.png",
+    "view_007.png",
+    "view_009.png",
+    "view_002.png"
+  ]
+}

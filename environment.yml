@@ -1,0 +1,22 @@
+name: sparse3d
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - opencv
+  - pillow
+  - scikit-image
+  - scikit-learn
+  - matplotlib
+  - tqdm
+  - pyyaml
+  - imageio
+  - pytorch
+  - torchvision
+  - pip:
+      - lpips

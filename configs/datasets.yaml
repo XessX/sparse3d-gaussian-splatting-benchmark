@@ -1,0 +1,30 @@
+datasets:
+  tanks_and_temples:
+    enabled: false
+    local_path: datasets/raw/tanks_and_temples
+    official_url: https://www.tanksandtemples.org/download/
+    license_url: https://www.tanksandtemples.org/license/
+    recommended_start_scenes: [Barn, Caterpillar, Ignatius, Truck]
+    notes: "Use official image sets and ground-truth geometry where available. Cite Knapitsch et al., 2017."
+
+  dtu:
+    enabled: false
+    local_path: datasets/raw/dtu
+    official_url: https://roboimagedata.compute.dtu.dk/?page_id=36
+    recommended_start_scenes: [scan24, scan37, scan40, scan55, scan63]
+    notes: "Use scans with known camera positions and structured-light reference geometry. Cite Jensen et al., 2014."
+
+  mipnerf360:
+    enabled: false
+    local_path: datasets/raw/mipnerf360
+    official_url: https://jonbarron.info/mipnerf360/
+    recommended_start_scenes: [bicycle, bonsai, counter, garden, kitchen, room, stump, treehill, flowers]
+    notes: "Use for novel-view synthesis metrics. Contains four indoor and five outdoor object-centric scenes."
+
+  llff:
+    enabled: false
+    local_path: datasets/raw/llff
+    official_url: https://bmild.github.io/llff/
+    code_url: https://github.com/Fyusion/LLFF
+    recommended_start_scenes: [fern, flower, fortress, horns, leaves, orchids, room, trex]
+    notes: "Optional forward-facing novel-view synthesis dataset."

@@ -1,0 +1,31 @@
+project:
+  name: sparse3d_scirep_benchmark
+  seed: 42
+
+paths:
+  raw_dataset_dir: datasets/raw
+  processed_dataset_dir: datasets/processed
+  results_dir: results
+  manuscript_dir: manuscript
+
+sparse_views:
+  counts: [2, 3, 5, 8, 12, 20]
+
+degradations:
+  resize_scales: [0.25, 0.50, 0.75]
+  jpeg_quality: [20, 40, 60, 80]
+  motion_blur_kernel: [7, 15]
+  exposure_alpha: [0.6, 1.4]
+  gaussian_noise_sigma: [5, 15]
+
+view_selection:
+  weights:
+    sharpness: 0.30
+    exposure: 0.25
+    entropy: 0.20
+    feature_count: 0.25
+    viewpoint_diversity: 0.00
+
+evaluation:
+  image_metrics: [psnr, ssim, lpips]
+  system_metrics: [runtime_sec, gpu_memory_mb, model_size_mb, failure_rate]

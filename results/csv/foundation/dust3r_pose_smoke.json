@@ -1,0 +1,33 @@
+﻿{
+  "weights": "external_methods\\dust3r\\checkpoints\\DUSt3R_ViTLarge_BaseDecoder_512_dpt.pth",
+  "rows": [
+    {
+      "scene": "tandt/train",
+      "method": "DUSt3R",
+      "split": "5views_uniform",
+      "views": 5,
+      "selection": "uniform",
+      "status": "success",
+      "num_images": 5,
+      "image_size": 512,
+      "niter": 20,
+      "device": "cuda",
+      "model_load_sec": 5.6055968000000576,
+      "image_load_sec": 0.09470599999986007,
+      "pair_count": 20,
+      "inference_sec": 4.9190228000006755,
+      "alignment_sec": 1.0721429999975953,
+      "loss": 0.011624263599514961,
+      "peak_gpu_memory_mb": 2713.0146484375,
+      "camera_center_rmse": 0.1568860663054492,
+      "camera_center_mae": 0.13434313783226304,
+      "camera_center_max_error": 0.23408066341342681,
+      "reference_trajectory_extent": 9.789046034247507,
+      "normalized_camera_center_rmse": 0.016026696141439607,
+      "alignment_scale": 34.56537077494475,
+      "focal_mean": 307.9969482421875,
+      "output_dir": "results\\method_outputs\\tandt\\train\\dust3r_pose\\5views_uniform",
+      "error": null
+    }
+  ]
+}

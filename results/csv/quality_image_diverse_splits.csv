@@ -1,0 +1,25 @@
+scene,split,views,selected_images,excluded_test_images,candidate_pool,quality_weight,diversity_weight
+tandt/train,2views_quality_image_diverse,2,"[""00157.jpg"", ""00289.jpg""]",20,80,0.45,0.55
+tandt/train,3views_quality_image_diverse,3,"[""00157.jpg"", ""00160.jpg"", ""00289.jpg""]",20,80,0.45,0.55
+tandt/train,5views_quality_image_diverse,5,"[""00157.jpg"", ""00160.jpg"", ""00171.jpg"", ""00276.jpg"", ""00289.jpg""]",20,80,0.45,0.55
+tandt/train,8views_quality_image_diverse,8,"[""00092.jpg"", ""00157.jpg"", ""00158.jpg"", ""00160.jpg"", ""00170.jpg"", ""00171.jpg"", ""00276.jpg"", ""00289.jpg""]",20,80,0.45,0.55
+tandt/train,12views_quality_image_diverse,12,"[""00092.jpg"", ""00143.jpg"", ""00157.jpg"", ""00158.jpg"", ""00160.jpg"", ""00161.jpg"", ""00170.jpg"", ""00171.jpg"", ""00172.jpg"", ""00276.jpg"", ""00289.jpg"", ""00297.jpg""]",20,80,0.45,0.55
+tandt/train,20views_quality_image_diverse,20,"[""00025.jpg"", ""00045.jpg"", ""00056.jpg"", ""00092.jpg"", ""00093.jpg"", ""00143.jpg"", ""00157.jpg"", ""00158.jpg"", ""00159.jpg"", ""00160.jpg"", ""00161.jpg"", ""00169.jpg"", ""00170.jpg"", ""00171.jpg"", ""00172.jpg"", ""00181.jpg"", ""00202.jpg"", ""00276.jpg"", ""00289.jpg"", ""00297.jpg""]",20,80,0.45,0.55
+tandt/truck,2views_quality_image_diverse,2,"[""000004.jpg"", ""000013.jpg""]",20,80,0.45,0.55
+tandt/truck,3views_quality_image_diverse,3,"[""000004.jpg"", ""000013.jpg"", ""000222.jpg""]",20,80,0.45,0.55
+tandt/truck,5views_quality_image_diverse,5,"[""000004.jpg"", ""000013.jpg"", ""000015.jpg"", ""000113.jpg"", ""000222.jpg""]",20,80,0.45,0.55
+tandt/truck,8views_quality_image_diverse,8,"[""000004.jpg"", ""000013.jpg"", ""000014.jpg"", ""000015.jpg"", ""000099.jpg"", ""000113.jpg"", ""000198.jpg"", ""000222.jpg""]",20,80,0.45,0.55
+tandt/truck,12views_quality_image_diverse,12,"[""000004.jpg"", ""000007.jpg"", ""000012.jpg"", ""000013.jpg"", ""000014.jpg"", ""000015.jpg"", ""000091.jpg"", ""000099.jpg"", ""000111.jpg"", ""000113.jpg"", ""000198.jpg"", ""000222.jpg""]",20,80,0.45,0.55
+tandt/truck,20views_quality_image_diverse,20,"[""000004.jpg"", ""000005.jpg"", ""000007.jpg"", ""000012.jpg"", ""000013.jpg"", ""000014.jpg"", ""000015.jpg"", ""000016.jpg"", ""000091.jpg"", ""000099.jpg"", ""000111.jpg"", ""000112.jpg"", ""000113.jpg"", ""000114.jpg"", ""000115.jpg"", ""000118.jpg"", ""000138.jpg"", ""000198.jpg"", ""000199.jpg"", ""000222.jpg""]",20,80,0.45,0.55
+db/drjohnson,2views_quality_image_diverse,2,"[""IMG_6548.jpg"", ""IMG_6580.jpg""]",20,80,0.45,0.55
+db/drjohnson,3views_quality_image_diverse,3,"[""IMG_6538.jpg"", ""IMG_6548.jpg"", ""IMG_6580.jpg""]",20,80,0.45,0.55
+db/drjohnson,5views_quality_image_diverse,5,"[""IMG_6302.jpg"", ""IMG_6365.jpg"", ""IMG_6538.jpg"", ""IMG_6548.jpg"", ""IMG_6580.jpg""]",20,80,0.45,0.55
+db/drjohnson,8views_quality_image_diverse,8,"[""IMG_6302.jpg"", ""IMG_6365.jpg"", ""IMG_6406.jpg"", ""IMG_6538.jpg"", ""IMG_6544.jpg"", ""IMG_6548.jpg"", ""IMG_6571.jpg"", ""IMG_6580.jpg""]",20,80,0.45,0.55
+db/drjohnson,12views_quality_image_diverse,12,"[""IMG_6302.jpg"", ""IMG_6317.jpg"", ""IMG_6365.jpg"", ""IMG_6371.jpg"", ""IMG_6406.jpg"", ""IMG_6538.jpg"", ""IMG_6544.jpg"", ""IMG_6548.jpg"", ""IMG_6560.jpg"", ""IMG_6562.jpg"", ""IMG_6571.jpg"", ""IMG_6580.jpg""]",20,80,0.45,0.55
+db/drjohnson,20views_quality_image_diverse,20,"[""IMG_6292.jpg"", ""IMG_6302.jpg"", ""IMG_6307.jpg"", ""IMG_6317.jpg"", ""IMG_6365.jpg"", ""IMG_6371.jpg"", ""IMG_6385.jpg"", ""IMG_6388.jpg"", ""IMG_6405.jpg"", ""IMG_6406.jpg"", ""IMG_6538.jpg"", ""IMG_6540.jpg"", ""IMG_6544.jpg"", ""IMG_6548.jpg"", ""IMG_6560.jpg"", ""IMG_6562.jpg"", ""IMG_6570.jpg"", ""IMG_6571.jpg"", ""IMG_6576.jpg"", ""IMG_6580.jpg""]",20,80,0.45,0.55
+db/playroom,2views_quality_image_diverse,2,"[""DSC05660.jpg"", ""DSC05781.jpg""]",20,80,0.45,0.55
+db/playroom,3views_quality_image_diverse,3,"[""DSC05660.jpg"", ""DSC05758.jpg"", ""DSC05781.jpg""]",20,80,0.45,0.55
+db/playroom,5views_quality_image_diverse,5,"[""DSC05579.jpg"", ""DSC05660.jpg"", ""DSC05758.jpg"", ""DSC05779.jpg"", ""DSC05781.jpg""]",20,80,0.45,0.55
+db/playroom,8views_quality_image_diverse,8,"[""DSC05579.jpg"", ""DSC05588.jpg"", ""DSC05660.jpg"", ""DSC05672.jpg"", ""DSC05709.jpg"", ""DSC05758.jpg"", ""DSC05779.jpg"", ""DSC05781.jpg""]",20,80,0.45,0.55
+db/playroom,12views_quality_image_diverse,12,"[""DSC05576.jpg"", ""DSC05579.jpg"", ""DSC05587.jpg"", ""DSC05588.jpg"", ""DSC05660.jpg"", ""DSC05672.jpg"", ""DSC05675.jpg"", ""DSC05709.jpg"", ""DSC05758.jpg"", ""DSC05759.jpg"", ""DSC05779.jpg"", ""DSC05781.jpg""]",20,80,0.45,0.55
+db/playroom,20views_quality_image_diverse,20,"[""DSC05576.jpg"", ""DSC05578.jpg"", ""DSC05579.jpg"", ""DSC05587.jpg"", ""DSC05588.jpg"", ""DSC05636.jpg"", ""DSC05660.jpg"", ""DSC05672.jpg"", ""DSC05675.jpg"", ""DSC05709.jpg"", ""DSC05723.jpg"", ""DSC05732.jpg"", ""DSC05743.jpg"", ""DSC05758.jpg"", ""DSC05759.jpg"", ""DSC05760.jpg"", ""DSC05771.jpg"", ""DSC05779.jpg"", ""DSC05781.jpg"", ""DSC05783.jpg""]",20,80,0.45,0.55

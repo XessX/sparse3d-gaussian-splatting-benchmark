@@ -1,0 +1,20 @@
+{
+  "scene": "tandt/train",
+  "views": [
+    2,
+    3,
+    5,
+    8,
+    12,
+    20
+  ],
+  "split_file": "datasets\\processed\\tandt\\train\\splits\\train_splits.json",
+  "quality_split_keys": [
+    "2views_quality",
+    "3views_quality",
+    "5views_quality",
+    "8views_quality",
+    "12views_quality",
+    "20views_quality"
+  ]
+}
